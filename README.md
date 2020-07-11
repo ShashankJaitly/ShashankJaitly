@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there Namaste :pray:
 
-<!--
-**ShashankJaitly/ShashankJaitly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Python, Django, PostgreSql, Celery, Redis and AWS
+- 🌱 I’m currently learning Javascript, React.js
+- 👯 I’m looking to contribute to opensource projects
+- 🤔 I’m looking for help with competetive programming
+- 💬 Ask me about Python, Django
+- 📫 How to reach me: Twitter: https://twitter.com/ShashankJaitly3
+- 😄 Pronouns: Vasu
+- ⚡ Fun fact: I started coding at 18
+
