@@ -8,6 +8,5 @@
 - 🤔 I’m looking for help with competetive programming
 - 💬 Ask me about Python, Django
 - 📫 How to reach me: Twitter: https://twitter.com/ShashankJaitly3
-- 😄 Pronouns: Vasu
 - ⚡ Fun fact: I started coding at 18
 
